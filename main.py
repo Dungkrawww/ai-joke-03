@@ -2,8 +2,7 @@
 import os
 
 OUT = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
-JOKE = "My agent apologized for the bug, fixed it, then apologized for the fix."
-
+JOKE = "My agent wrote 500 lines to fix a typo. The typo is still there."
 
 
 
