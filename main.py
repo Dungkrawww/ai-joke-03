@@ -1,3 +1,4 @@
+# ai-joke-03: one fixed one-liner about AI coding agents.
 import os
 
 OUT = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
