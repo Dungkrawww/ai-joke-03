@@ -2,7 +2,8 @@
 import os
 
 OUT = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
-JOKE = "I told my coding agent 'just a small change' — it heard 'rewrite the architecture'."
+JOKE = "My agent finished the feature in minutes. The code review took three days — mostly to figure out what it did."
+
 
 
 os.makedirs(OUT, exist_ok=True)
