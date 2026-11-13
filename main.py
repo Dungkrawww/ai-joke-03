@@ -2,7 +2,8 @@
 import os
 
 OUT = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
-JOKE = "My agent finished the feature in minutes. The code review took three days — mostly to figure out what it did."
+JOKE = "My agent's code passed every test. It also passed the deadline and the budget."
+
 
 
 
